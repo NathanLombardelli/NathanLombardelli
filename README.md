@@ -14,14 +14,11 @@
 - 🌱 I’m currently learning SASS
 </p>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/NathanLombardelli/test/pull/1) in [NathanLombardelli/test](https://github.com/NathanLombardelli/test)
-2. 💪 Opened PR [#1](https://github.com/NathanLombardelli/test/pull/1) in [NathanLombardelli/test](https://github.com/NathanLombardelli/test)
-3. 🔒 Closed issue [#1](https://github.com/NathanLombardelli/test/issues/1) in [NathanLombardelli/test](https://github.com/NathanLombardelli/test)
-4. ❗ Opened issue [#1](https://github.com/NathanLombardelli/test/issues/1) in [NathanLombardelli/test](https://github.com/NathanLombardelli/test)
-5. 🎉 Merged PR [#5](https://github.com/becodeorg/hamilton-8-kababi-ozlem-nathan/pull/5) in [becodeorg/hamilton-8-kababi-ozlem-nathan](https://github.com/becodeorg/hamilton-8-kababi-ozlem-nathan)
-<!--END_SECTION:activity-->
+<details align='center'>
+  <summary>:zap: Github activity</summary>
+  <!--START_SECTION:activity-->
 
+</details>
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NathanLombardelli&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -33,18 +30,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlombardelli&" alt="nathanlombardelli" /></p>
 
-
-<!--
-**NathanLombardelli/NathanLombardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
