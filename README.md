@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning SASS
 </p>
 
+<!--START_SECTION:activity-->
+
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NathanLombardelli&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
