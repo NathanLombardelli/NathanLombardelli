@@ -1,7 +1,5 @@
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NathanLombardelli&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=NathanLombardelli&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
@@ -35,4 +33,21 @@
 <p align="center"><img align="center" src="https://github-readme-stats-two-phi-51.vercel.app/api?username=NathanLombardelli&show_icons=true" alt="nathanlombardelli" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlombardelli&" alt="nathanlombardelli" /></p>
+
+
+<details align='left' >
+  <summary>:video_game: do you want to play at pokemon ? (https://github.com/HFO4 project) </summary>
+  
+  <img src="https://toy.aoaoao.me/image" width="300"/> 
+  
+  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
+<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" height="30"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="30" /></a>
+  
+  
+</details>
+
+
+
 
