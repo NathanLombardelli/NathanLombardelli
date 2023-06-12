@@ -9,12 +9,12 @@
 
 
 
-<p align='center'>
+<p align='center' >
 - 🔭 I’m currently working on DrinkSaver app ( private ) <br>
 - 🌱 I’m currently learning SASS
 </p>
 
-<details align='center'>
+<details align='left' >
   <summary>:zap: Github activity</summary>
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/NathanLombardelli/test/pull/1) in [NathanLombardelli/test](https://github.com/NathanLombardelli/test)
