@@ -17,11 +17,11 @@
 <details align='left'>
   <summary>:zap: Github activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias/pull/11) in [becodeorg/hamilton-8-escapium-nathan-lucie-ilias](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias)
-2. 🎉 Merged PR [#6](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias/pull/6) in [becodeorg/hamilton-8-escapium-nathan-lucie-ilias](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias)
-3. 🎉 Merged PR [#15](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias/pull/15) in [becodeorg/hamilton-8-escapium-nathan-lucie-ilias](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias)
-4. 💪 Opened PR [#15](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias/pull/15) in [becodeorg/hamilton-8-escapium-nathan-lucie-ilias](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias)
-5. 🎉 Merged PR [#10](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias/pull/10) in [becodeorg/hamilton-8-escapium-nathan-lucie-ilias](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias)
+1. 🎉 Merged PR [#2](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/2) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
+2. 💪 Opened PR [#2](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/2) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
+3. 🎉 Merged PR [#11](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias/pull/11) in [becodeorg/hamilton-8-escapium-nathan-lucie-ilias](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias)
+4. 🎉 Merged PR [#6](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias/pull/6) in [becodeorg/hamilton-8-escapium-nathan-lucie-ilias](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias)
+5. 🎉 Merged PR [#15](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias/pull/15) in [becodeorg/hamilton-8-escapium-nathan-lucie-ilias](https://github.com/becodeorg/hamilton-8-escapium-nathan-lucie-ilias)
 <!--END_SECTION:activity-->
 </details>
 <hr>
