@@ -17,11 +17,11 @@
 <details align='left'>
   <summary>:zap: Github activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/5) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
-2. 💪 Opened PR [#5](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/5) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
-3. 🎉 Merged PR [#4](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/4) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
-4. 💪 Opened PR [#4](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/4) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
-5. 🎉 Merged PR [#2](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/2) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
+1. 🎉 Merged PR [#6](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/6) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
+2. 💪 Opened PR [#6](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/6) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
+3. 🎉 Merged PR [#5](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/5) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
+4. 💪 Opened PR [#5](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/5) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
+5. 🎉 Merged PR [#4](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline/pull/4) in [becodeorg/hamilton-8-character-manager-group-project-nathan-pauline](https://github.com/becodeorg/hamilton-8-character-manager-group-project-nathan-pauline)
 <!--END_SECTION:activity-->
 </details>
 <hr>
