@@ -52,7 +52,7 @@
 <br>
   <a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/NathanLombardelli"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a>
   <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
-  <a href="https://toy.aoaoao.me/control?button=0&https://github.com/NathanLombardelli"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a>
+  <a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/NathanLombardelli"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a>
   <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
   <a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/NathanLombardelli"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> 
   <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/NathanLombardelli"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
