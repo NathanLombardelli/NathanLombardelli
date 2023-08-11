@@ -13,7 +13,7 @@
 </p>
 <!-- <p align='center'><img align='center' src='https://github-readme-stats-two-phi-51.vercel.app/api/top-langs/?username=NathanLombardelli&theme=dracula&langs_count=10'/></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p align='center' >
 - 🔭 I’m currently working on DrinkSaver app ( private ) <br>
