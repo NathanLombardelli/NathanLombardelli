@@ -17,7 +17,7 @@
 
 <p align='center' >
 - 🔭 I’m currently working on DrinkSaver app ( private ) <br>
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning php with Docker
 </p>
 
 <details align='left'>
