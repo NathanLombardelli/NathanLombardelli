@@ -11,7 +11,7 @@
 <img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 </p>
-<p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli&layout=compact&langs_count=8'/></p>
+<p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli&layout=compact&langs_count=10'/></p>
 
 
 <p align='center' >
@@ -35,8 +35,6 @@
 
 <hr>
 
-
-<p align="center"><img align="center" src="https://github-readme-stats-two-phi-51.vercel.app/api?username=NathanLombardelli&show_icons=true" alt="nathanlombardelli" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlombardelli&" alt="nathanlombardelli" /></p>
 
