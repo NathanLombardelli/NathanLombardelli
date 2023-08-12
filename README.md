@@ -31,7 +31,7 @@
 </details>
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NathanLombardelli&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NathanLombardelli&theme=darkhub&column=7&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
