@@ -11,7 +11,7 @@
 <img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 </p>
-<p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli&layout=compact&langs_count=10'/></p>
+<p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli&&hide=TSQL&layout=compact&langs_count=10'/></p>
 
 
 <p align='center' >
