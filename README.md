@@ -37,7 +37,7 @@
 
 <hr>
 
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanlombardelli" alt="nathanlombardelli" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlombardelli&" alt="nathanlombardelli" /></p>
 
 
