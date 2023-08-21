@@ -24,11 +24,11 @@
 <details align='left'>
   <summary>:zap: Github activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/26) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
-2. 💪 Opened PR [#26](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/26) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
-3. 🎉 Merged PR [#24](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/24) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
-4. 💪 Opened PR [#24](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/24) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
-5. 🎉 Merged PR [#21](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/21) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+1. 🎉 Merged PR [#31](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/31) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+2. 💪 Opened PR [#31](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/31) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+3. 🎉 Merged PR [#28](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/28) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+4. 💪 Opened PR [#28](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/28) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+5. 🎉 Merged PR [#26](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/26) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
 <!--END_SECTION:activity-->
 </details>
 <hr>
