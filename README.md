@@ -24,10 +24,10 @@
 <details align='left'>
   <summary>:zap: Github activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/44) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
-2. 💪 Opened PR [#44](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/44) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
-3. 🔒 Closed issue [#41](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/issues/41) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
-4. 🔒 Reopened issue [#41](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/issues/41) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+1. 🎉 Merged PR [#45](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/45) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+2. 💪 Opened PR [#45](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/45) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+3. 🎉 Merged PR [#44](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/44) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
+4. 💪 Opened PR [#44](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/pull/44) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
 5. 🔒 Closed issue [#41](https://github.com/becodeorg/hamilton-8-hiking-project-phpair/issues/41) in [becodeorg/hamilton-8-hiking-project-phpair](https://github.com/becodeorg/hamilton-8-hiking-project-phpair)
 <!--END_SECTION:activity-->
 </details>
