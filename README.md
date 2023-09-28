@@ -20,7 +20,7 @@
 
 <p align='center' >
 - 🔭 I’m currently working on DrinkSaver app <br>
-- 🌱 I’m currently learning React Native with Expo
+- 🌱 I’m currently learning React Native with Expo (React Native)
 </p>
 
 <details align='left'>
