@@ -7,7 +7,7 @@
 
 <h3 align="center">Tech use in my Projects</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,css,sass,html,js,mysql,threejs,cs,dotnet,nodejs,express,tailwind,symfony,php,docker,ts,vite,figma,github,java,c&perline=7">
+  <img src="https://skillicons.dev/icons?i=react,css,sass,html,js,mysql,threejs,cs,dotnet,nodejs,express,tailwind,symfony,php,docker,ts,vite,figma,github,java,c&perline=7"><!--redux-->
 </p>
 <p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli&&hide=TSQL&layout=compact&langs_count=10'/></p>
 
