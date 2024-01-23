@@ -16,7 +16,7 @@
 
 <p align='center' >
 - 🔭 I’m currently working on DrinkSaver app and My_React_Components <br>
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native with Expo
 </p>
 
 <hr>
