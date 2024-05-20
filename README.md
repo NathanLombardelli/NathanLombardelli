@@ -16,7 +16,7 @@
 
 <p align='center' >
 - 🔭 I’m currently working on DrinkSaver app and BeReact-ui <br>
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Next.js
 </p>
 
 <hr>
