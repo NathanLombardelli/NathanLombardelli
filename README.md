@@ -7,7 +7,7 @@
 
 <h3 align="center">Tech use in my Projects</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,css,sass,html,js,mysql,threejs,cs,dotnet,nodejs,express,tailwind,symfony,php,docker,ts,vite,figma,github,java,c,prisma,next&perline=7"><!--redux-->
+  <img src="https://skillicons.dev/icons?i=react,css,sass,html,js,mysql,threejs,cs,dotnet,nodejs,express,tailwind,symfony,php,docker,ts,vite,figma,github,java,c,prisma,next,supabase&perline=7"><!--redux-->
 </p>
 <p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli&&hide=TSQL&layout=compact&langs_count=10'/></p>
 
@@ -15,8 +15,8 @@
 
 
 <p align='center' >
-- 🔭 I’m currently working on DrinkSaver app and BeReact-ui <br>
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on DrinkSaver and BeReact-ui <br>
+- 🌱 I’m currently learning Next.js with supabase
 </p>
 
 <hr>
