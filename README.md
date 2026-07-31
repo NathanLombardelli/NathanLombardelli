@@ -9,23 +9,23 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,css,sass,html,js,mysql,threejs,cs,nodejs,express,tailwind,docker,ts,vite,figma,github,prisma,next,supabase,postgres,python,webstorm&perline=11"><!--redux-->
 </p>
-<p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli&&hide=TSQL&layout=compact&langs_count=10'/></p>
+<!--<p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLombardelli&&hide=TSQL&layout=compact&langs_count=10'/></p> -->
 
 
 
 
 <p align='center' >
-- 🔭 I’m currently working on DrinkSaver and BeReact-ui <br>
-- 🌱 I’m currently learning Next.js with supabase
+- 🔭 I’m currently working on StoryDeck and TIM <br>
+- 🌱 I’m currently learning Python and LLM
 </p>
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NathanLombardelli&theme=darkhub&column=7&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=NathanLombardelli&theme=darkhub&column=7&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanlombardelli" alt="nathanlombardelli" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanlombardelli" alt="nathanlombardelli" /></p>-->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlombardelli&" alt="nathanlombardelli" /></p>
 
 
