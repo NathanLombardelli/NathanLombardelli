@@ -15,7 +15,7 @@
 
 
 <p align='center' >
-- 🔭 I’m currently working on StoryDeck and TIM <br>
+- 🔭 I’m currently working on StoryDeck,GiftyPlay and TIM <br>
 - 🌱 I’m currently learning Python and LLM
 </p>
 
