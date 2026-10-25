@@ -21,9 +21,11 @@
 
 <hr>
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=NathanLombardelli&theme=darkhub&column=7&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=NathanLombardelli&theme=darkhub&column=7&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <hr>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NathanLombardelli)](https://github.com/stats-organization/github-stats-extended)
 
 <!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanlombardelli" alt="nathanlombardelli" /></p>-->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlombardelli&" alt="nathanlombardelli" /></p>
